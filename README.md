@@ -32,5 +32,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziaurrehmanmalhi&" alt="ziaurrehmanmalhi" /></p>
  <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
 <p align="center">
-  <img src="https://github.com/sakshiisaxena/sakshiisaxena/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/ZiaurRehmanmalhi/ziaurrehmanmalhi/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+<!-- ![Rajat's github stats](https://github-readme-stats.vercel.app/api?username=rajat4665&show_icons=true&theme=radical&count_private=true&show_icons=true)
+ -->
