@@ -30,3 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ziaurrehmanmalhi&show_icons=true&locale=en" alt="ziaurrehmanmalhi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziaurrehmanmalhi&" alt="ziaurrehmanmalhi" /></p>
+ <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+<p align="center">
+  <img src="https://github.com/sakshiisaxena/sakshiisaxena/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
