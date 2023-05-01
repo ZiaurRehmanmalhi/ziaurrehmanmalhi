@@ -41,3 +41,6 @@
 </p>
 <!-- ![Rajat's github stats](https://github-readme-stats.vercel.app/api?username=rajat4665&show_icons=true&theme=radical&count_private=true&show_icons=true)
  -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
+</p>
