@@ -3,7 +3,7 @@
 <h3 align="center">A passionate back-end developer from Pakistan</h3>
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Python-Programing+Learning;Open+AI;Nice+To+Meet+You+...&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Python-Programing+Learning;Mobile+apps;Open+AI;Nice+To+Meet+You+...&center=true"></a>
 
 </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
