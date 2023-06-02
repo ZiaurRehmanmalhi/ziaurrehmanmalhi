@@ -13,7 +13,7 @@
 <p align="left"> <a href="https://twitter.com/zia malhi" target="blank"><img src="https://img.shields.io/twitter/follow/zia malhi?logo=twitter&style=for-the-badge" alt="zia malhi" /></a> </p>
 
 - 🔭 I’m working on **python language** 
-
+ 
 - 🌱 I’m learning **complete python language**
 
 - 👨‍💻 All of my projects are available at [ziamalhi.com](ziamalhi.com)
