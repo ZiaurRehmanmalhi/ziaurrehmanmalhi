@@ -14,7 +14,7 @@
 
 - 🔭 I’m working on **python language** 
  
-- 🌱 I’m learning **complete python language**
+- 🌱 I’m learning **complete python language** 
 
 - 👨‍💻 All of my projects are available at [ziamalhi.com](ziamalhi.com)
 
