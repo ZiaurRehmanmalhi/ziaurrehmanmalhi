@@ -16,7 +16,7 @@
  
 - 🌱 I’m learning **complete python language** 
 
-- 👨‍💻 All of my projects are available at [ziamalhi.com](ziamalhi.com)
+- 👨‍💻 All of my projects are available at [barq.dev](barq.dev)
 
 - 📫 How to reach me **ziamalhi1234@gmail.com**
 
@@ -36,9 +36,20 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziaurrehmanmalhi&" alt="ziaurrehmanmalhi" /></p>
  <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
-<p align="center">
-  <img src="https://github.com/sakshiisaxena/sakshiisaxena/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 <!-- ![Rajat's github stats](https://github-readme-stats.vercel.app/api?username=rajat4665&show_icons=true&theme=radical&count_private=true&show_icons=true)
  -->
 <p align="center">
